@@ -1,0 +1,12 @@
+C:\Users\libor\Dropbox\RPA\VB\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\libor\Dropbox\RPA\VB\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\libor\Dropbox\RPA\VB\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\libor\Dropbox\RPA\VB\HelloWorld\HelloWorld\bin\Debug\HelloWorld.xml
+C:\Users\libor\Dropbox\RPA\VB\HelloWorld\HelloWorld\obj\Debug\HelloWorld.vbprojAssemblyReference.cache
+C:\Users\libor\Dropbox\RPA\VB\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Resources.resources
+C:\Users\libor\Dropbox\RPA\VB\HelloWorld\HelloWorld\obj\Debug\HelloWorld.vbproj.GenerateResource.cache
+C:\Users\libor\Dropbox\RPA\VB\HelloWorld\HelloWorld\obj\Debug\HelloWorld.vbproj.CoreCompileInputs.cache
+C:\Users\libor\Dropbox\RPA\VB\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\libor\Dropbox\RPA\VB\HelloWorld\HelloWorld\obj\Debug\HelloWorld.xml
+C:\Users\libor\Dropbox\RPA\VB\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\libor\Dropbox\RPA\VB\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Form1.resources
